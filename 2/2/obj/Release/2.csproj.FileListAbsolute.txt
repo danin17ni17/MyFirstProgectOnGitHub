@@ -1,0 +1,8 @@
+c:\users\даниил\documents\visual studio 2012\Projects\2\2\bin\Release\2.exe.config
+c:\users\даниил\documents\visual studio 2012\Projects\2\2\bin\Release\2.exe
+c:\users\даниил\documents\visual studio 2012\Projects\2\2\bin\Release\2.pdb
+c:\users\даниил\documents\visual studio 2012\Projects\2\2\obj\Release\2.exe
+c:\users\даниил\documents\visual studio 2012\Projects\2\2\obj\Release\2.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\3\2\bin\Release\2.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\3\2\obj\Release\2.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\3\2\obj\Release\2.pdb

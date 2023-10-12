@@ -1,0 +1,6 @@
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\bin\Release\4.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\bin\Release\4.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\bin\Release\4.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\obj\Release\4.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\obj\Release\4.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\4\4\obj\Release\4.csprojResolveAssemblyReference.cache
